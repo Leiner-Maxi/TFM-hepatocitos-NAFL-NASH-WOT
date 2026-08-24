@@ -1,0 +1,27 @@
+# Datos crudos: publicos en GEO (GSE166504), no se versionan por tamano.
+# Ver README para instrucciones de descarga.
+data/raw/
+
+# Archivos intermedios regenerables (se recrean corriendo los scripts).
+data/processed/
+checkpoints/
+results/wot/tmaps/*.h5ad
+results/wot/tmaps/*.txt
+
+# Logs con timestamp: numerosos y no esenciales para versionar: el
+# codigo y los resultados finales son la evidencia real.
+logs/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
