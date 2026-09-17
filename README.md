@@ -143,8 +143,8 @@ y limitaciones.
 
 ## Declaración de uso de IA
 
-Se utilizó Claude (Anthropic) como herramienta de apoyo extensivo en el
-desarrollo de este pipeline, incluyendo generación asistida de código,
-depuración activa de errores técnicos y correcciones metodológicas
-identificadas durante el desarrollo. Ver Anexo I del TFM para la
-declaración completa.
+Se utilizó ChatGPT como herramienta de apoyo puntual durante el desarrollo del pipeline, 
+principalmente para resolver dudas técnicas, discutir aspectos metodológicos 
+y orientar la depuración de errores. La concepción del proyecto, las decisiones científicas, 
+la implementación y revisión del código, así como la interpretación de los resultados, 
+fueron responsabilidad del autor.
